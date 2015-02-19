@@ -12,7 +12,7 @@ Checks if a value is a legal Designated Market Area.
     }
 
 where value is first converted to a string (via `.toString()`) as are all 
-members of exceptions.
+members of exceptions which is first cloned.
 
 ### Description
 
