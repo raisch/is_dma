@@ -1,14 +1,14 @@
 {
   "name": "is_dma",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Matches a three-digit Designated Market Area (DMA) id",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
-  "repository":{
-    "type":"git",
-    "url":"https://github.com/raisch/is_dma"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raisch/is_dma"
   },
   "keywords": [
     "regexp",
