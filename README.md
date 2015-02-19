@@ -3,12 +3,12 @@ Checks if a value is a legal Designated Market Area.
 
 ### Usage
 
-		var is_dma=require('is_dma'),
+    var is_dma=require('is_dma'),
         exceptions=[0],
-				value=500;
+        value=500;
 
-		if(is_dma(value,execptions)) {
-			console.log('%s is a dma or exception', value);
+    if(is_dma(value,execptions)) {
+      console.log('%s is a dma or exception', value);
     }
 
 ### Description
