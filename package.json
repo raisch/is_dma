@@ -1,0 +1,21 @@
+{
+  "name": "is_dma",
+  "version": "1.0.0",
+  "description": "Matches a three-digit Designated Market Area (DMA) id",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "regexp", "dma", "xregexp"
+  ],
+  "author": "Rob Raisch <raisch@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "xregexp": "^2.0.0"
+  },
+  "devDependencies": {
+    "lodash": "^3.2.0",
+    "mocha": "^2.1.0"
+  }
+}
