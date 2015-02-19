@@ -24,6 +24,6 @@ DMAs so adding that value to exceptions will validate all possible values.
 The list of legal DMAs from which this module was constructed were retrieved 
 from DoubleClick's [Rich Media API Handbook - Designated Market Area® code key](https://support.google.com/richmedia/answer/2745487?hl=en).
 
-NOTE: The term "Designated Market Area" is a trademark of DoubleClick.
+NOTE: The term "Designated Market Area" is a registered trademark of DoubleClick.
 
 
