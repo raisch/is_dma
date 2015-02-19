@@ -6,12 +6,19 @@
   "scripts": {
     "test": "mocha"
   },
+  "repository":{
+    "type":"git",
+    "url":"https://github.com/raisch/is_dma"
+  },
   "keywords": [
-    "regexp", "dma", "xregexp"
+    "regexp",
+    "dma",
+    "xregexp"
   ],
   "author": "Rob Raisch <raisch@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "lodash": "^3.2.0",
     "xregexp": "^2.0.0"
   },
   "devDependencies": {

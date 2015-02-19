@@ -11,6 +11,9 @@ Checks if a value is a legal Designated Market Area.
       console.log('%s is a DMA or exception', value);
     }
 
+where value is first converted to a string (via `.toString()`) as are all 
+members of exceptions.
+
 ### Description
 
 Provides a simple XRegExp-backed function to determine if a provided value is a 
