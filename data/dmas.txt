@@ -1,0 +1,210 @@
+500	2	Portland/Auburn
+501	3	New York
+502	4	Binghamton
+503	5	Macon
+504	6	Philadelphia
+505	7	Detroit
+506	8	Boston
+507	9	Savannah
+508	10	Pittsburgh
+509	11	Fort Wayne
+510	12	Cleveland
+511	13	Washington Dc
+512	14	Baltimore
+513	15	Flint/Saginaw/Bay City
+514	16	Buffalo
+515	17	Cincinnati
+516	18	Erie
+517	19	Charlotte
+518	20	Greensboro/High Point/Winston-Salem
+519	21	Charleston-Sc
+520	22	Augusta
+521	23	Providence/New Bedford
+522	24	Columbus-Ga
+523	25	Burlington/Plattsburgh
+524	26	Atlanta
+525	27	Albany-Ga
+526	28	Utica
+527	29	Indianapolis
+528	30	Miami/Fort Lauderdale
+529	31	Louisville
+530	32	Tallahassee/Thomasville
+531	33	Tri-Cities-Tn-Va
+532	34	Albany/Schenectady/Troy
+533	35	Hartford/New Haven
+534	36	Orlando/Daytona Beach/Melbourne
+535	37	Columbus-Oh
+536	38	Youngstown
+537	39	Bangor
+538	40	Rochester-Ny
+539	41	Tampa/Saint Petersburg
+540	42	Traverse City/Cadillac
+541	43	Lexington
+542	44	Dayton
+543	45	Springfield/Holyoke
+544	46	Norfolk/Portsmouth/Newport News
+545	47	Greenville/New Bern/Washington
+546	48	Columbia-Sc
+547	49	Toledo
+548	50	West Palm Beach/Fort Pierce
+549	51	Watertown
+550	52	Wilmington
+551	53	Lansing
+552	54	Presque Isle
+553	55	Marquette
+554	56	Wheeling/Steubenville
+555	57	Syracuse
+556	58	Richmond/Petersburg
+557	59	Knoxville
+558	60	Lima
+559	61	Bluefield/Beckley/Oak Hill
+560	62	Raleigh/Durham
+561	63	Jacksonville-Brunswick
+563	64	Grand Rapids/Kalamazoo/Battle Creek
+564	65	Charleston/Huntington
+565	66	Elmira
+566	67	Harrisburg/Lancaster/Lebanon/York
+567	68	Greenville/Spartanburg/Asheville/Anderson
+569	69	Harrisonburg
+570	70	Florence/Myrtle Beach
+571	71	Fort Myers/Naples
+573	72	Roanoke/Lynchburg
+574	73	Johnstown/Altoona
+575	74	Chattanooga
+576	75	Salisbury
+577	76	Wilkes Barre/Scranton
+581	77	Terre Haute
+582	78	Lafayette-In
+583	79	Alpena
+584	80	Charlottesville
+588	81	South Bend/Elkhart
+592	82	Gainesville
+596	83	Zanesville
+597	84	Parkersburg
+598	85	Clarksburg/Weston
+600	86	Corpus Christi
+602	87	Chicago
+603	88	Joplin/Pittsburg
+604	89	Columbia/Jefferson City
+605	90	Topeka
+606	91	Dothan
+609	92	Saint Louis
+610	93	Rockford
+611	94	Rochester/Mason City/Austin
+612	95	Shreveport
+613	96	Minneapolis/Saint Paul
+616	97	Kansas City
+617	98	Milwaukee
+618	99	Houston
+619	100	Springfield-Mo
+622	101	New Orleans
+623	102	Dallas/Fort Worth
+624	103	Sioux City
+625	104	Waco/Temple/Bryan
+626	105	Victoria
+627	106	Wichita Falls/Lawton
+628	107	Monroe/El Dorado
+630	108	Birmingham
+631	109	Ottumwa/Kirksville
+632	110	Paducah/Cape Girardeau/Harrisburg/Mt Vernon
+633	111	Odessa/Midland
+634	112	Amarillo
+635	113	Austin-Tx
+636	114	Harlingen/Weslaco/Brownsville/Mcallen
+637	115	Cedar Rapids/Waterloo/Dubuque
+638	116	Saint Joseph
+639	117	Jackson-Tn
+640	118	Memphis
+641	119	San Antonio
+642	120	Lafayette-La
+643	121	Lake Charles
+644	122	Alexandria-La
+647	123	Greenwood/Greenville
+648	124	Champaign/Springfield/Decatur
+649	125	Evansville
+650	126	Oklahoma City
+651	127	Lubbock
+652	128	Omaha
+656	129	Panama City
+657	130	Sherman-Tx/Ada-Ok
+658	131	Green Bay/Appleton
+659	132	Nashville
+661	133	San Angelo
+662	134	Abilene/Sweetwater
+669	135	Madison
+670	136	Fort Smith/Fayetteville/Springdale/Rogers
+671	137	Tulsa
+673	138	Columbus/Tupelo/West Point
+675	139	Peoria/Bloomington
+676	140	Duluth/Superior
+678	141	Wichita/Hutchinson
+679	142	Des Moines/Ames
+682	143	Davenport/Rock Island/Moline
+686	144	Mobile/Pensacola/Fort Walton Beach
+687	145	Minot/Bismarck/Dickinson
+691	146	Huntsville/Decatur/Florence
+692	147	Beaumont/Port Arthur
+693	148	Little Rock/Pine Bluff
+698	149	Montgomery/Selma
+702	150	La Crosse/Eau Claire
+705	151	Wausau/Rhinelander
+709	152	Tyler/Longview/Lufkin/Nacogdoches
+710	153	Hattiesburg/Laurel
+711	154	Meridian
+716	155	Baton Rouge
+717	156	Quincy/Hannibal/Keokuk
+718	157	Jackson-Ms
+722	158	Lincoln/Hastings/Kearney
+724	159	Fargo/Valley City
+725	160	Sioux Falls/Mitchell
+734	161	Jonesboro
+736	162	Bowling Green
+737	163	Mankato
+740	164	North Platte
+743	165	Anchorage
+744	166	Honolulu
+745	167	Fairbanks
+746	168	Biloxi/Gulfport
+747	169	Juneau
+749	170	Laredo
+751	171	Denver
+752	172	Colorado Springs/Pueblo
+753	173	Phoenix
+754	174	Butte/Bozeman
+755	175	Great Falls
+756	176	Billings
+757	177	Boise
+758	178	Idaho Falls/Pocatello
+759	179	Cheyenne/Scottsbluff
+760	180	Twin Falls
+762	181	Missoula
+764	182	Rapid City
+765	183	El Paso
+766	184	Helena
+767	185	Casper/Riverton
+770	186	Salt Lake City
+771	187	Yuma/El Centro
+773	188	Grand Junction/Montrose
+789	189	Tucson/Sierra Vista
+790	190	Albuquerque/Santa Fe
+798	191	Glendive
+800	192	Bakersfield
+801	193	Eugene
+802	194	Eureka
+803	195	Los Angeles
+804	196	Palm Springs
+807	197	San Francisco/Oakland/San Jose
+810	198	Yakima/Pasco/Richland/Kennewick
+811	199	Reno
+813	200	Medford/Klamath Falls
+819	201	Seattle/Tacoma
+820	202	Portland-Or
+821	203	Bend-Or
+825	204	San Diego
+828	205	Monterey/Salinas
+839	206	Las Vegas
+855	207	Santa Barbara/Santa Maria/San Luis Obispo
+862	208	Sacramento/Stockton/Modesto
+866	209	Fresno/Visalia
+868	210	Chico/Redding
+881	211	Spokane
